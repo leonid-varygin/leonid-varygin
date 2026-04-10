@@ -19,7 +19,7 @@ I am a **Senior Frontend Developer** (Vue / React / Angular / TypeScript) with o
 * I am a podium finisher in national age-group competitions in triathlon, open water swimming, and marathons (42km / 21km).
 
 ### 📫 Connect with me:
-* **Telegram**: @lvarygin
+* **Telegram**: [@lvarygin](https://t.me/lvarygin)
 * **Email**: varygin.dev@gmail.com
 * **LinkedIn**: [Leonid Varygin](https://www.linkedin.com/in/lvarygin)
 
@@ -46,6 +46,6 @@ I am a **Senior Frontend Developer** (Vue / React / Angular / TypeScript) with o
 * Призёр всероссийских соревнований в возрастной категории (Age Group), участник заплывов на открытой воде и марафонов (42 км / 21 км).
 
 ### 📫 Контакты:
-* **Telegram**: @lvarygin
+* **Telegram**: [@lvarygin](https://t.me/lvarygin)
 * **Email**: varygin.dev@gmail.com
 * **LinkedIn**: [Leonid Varygin](https://www.linkedin.com/in/lvarygin)
