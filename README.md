@@ -1,6 +1,6 @@
 # Hi, I'm Leonid Varygin! 👋
 
-I am a **Senior Frontend Developer** (Vue / React / TypeScript) with over 5 years of commercial experience in building complex, high-load B2C, B2B, and internal product systems. I specialize in creating SPA applications, frontend architecture, and developing UI libraries. I also have a strong technical background in fullstack development using NestJS and Vue 3.
+I am a **Senior Frontend Developer** (Vue / React / Angular / TypeScript) with over 5 years of commercial experience in building complex, high-load B2C, B2B, and internal product systems. I specialize in creating SPA applications, frontend architecture, and developing UI libraries. I also have a strong technical background in fullstack development using NestJS and Vue 3.
 
 ### 🔭 Current Focus:
 * **Core Work**: Frontend Developer at Digital Economy League. I am developing a micro-frontend ecosystem for a corporate platform with 10,000+ users. I also designed a UI-Kit currently used in 30+ company services.
@@ -27,7 +27,7 @@ I am a **Senior Frontend Developer** (Vue / React / TypeScript) with over 5 year
 
 # Привет, я Леонид Варыгин! 👋
 
-Я **Senior Frontend Developer** (Vue / React / TypeScript) с более чем 5-летним опытом коммерческой разработки сложных высоконагруженных B2C, B2B и внутренних систем. Специализируюсь на создании SPA-приложений, архитектуре фронтенд-систем и разработке UI-библиотек. Обладаю опытом fullstack-разработки на NestJS и Vue 3.
+Я **Senior Frontend Developer** (Vue / React / Angular / TypeScript) с более чем 5-летним опытом коммерческой разработки сложных высоконагруженных B2C, B2B и внутренних систем. Специализируюсь на создании SPA-приложений, архитектуре фронтенд-систем и разработке UI-библиотек. Обладаю опытом fullstack-разработки на NestJS и Vue 3.
 
 ### 🔭 Чем я сейчас занимаюсь:
 * **Основная работа**: Frontend-разработчик в «Лиге Цифровой Экономики». Развиваю микрофронтенд-экосистему для платформы с 10 000+ пользователей. Спроектировал UI-Kit, который используется в 30+ сервисах компании.
